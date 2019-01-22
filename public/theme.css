@@ -1,0 +1,90 @@
+h1{
+	color:white;
+	text-align:center;
+}
+img{
+	width: 80%;
+	margin-left: 10%;
+}
+html{
+	height: 100%;
+}
+body{
+	margin:0;
+  	padding:0;
+  	background: url(bar.jpg) no-repeat center fixed; 
+ 	background-size: cover; 
+ 	height: 100%;
+}
+.js-name{
+	position: center;
+	height: 10%;
+	width: 40%;
+	display: block;
+	margin: 15px 0;
+	border-radius: 15px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+.js-price-by-hour{
+	height: 10%;
+	width: 40%;
+	display: block;
+	margin: 15px;
+	border-radius: 15px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+.js-price-by-person{
+	height: 10%;
+	width: 40%;
+	display: block;
+	margin: 15px;
+	border-radius: 15px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+.js-time{
+	height: 10%;
+	width: 40%;
+	display: block;
+	margin: 15px;
+	border-radius: 15px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+.js-persons{
+	height: 10%;
+	width: 40%;
+	display: block;
+	margin: 15px;
+	border-radius: 15px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+.js-option{
+	height: 10%;
+	width: 40%;
+	display: block;
+	margin: 15px;
+	border-radius: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+button{
+	margin: auto;
+	display: block;
+	width: 15%;
+	height: 5%;
+	border-radius: 10px;
+}
+div{
+	height: 35%;
+	position: center;
+}
